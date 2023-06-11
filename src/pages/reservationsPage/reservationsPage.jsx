@@ -13,7 +13,7 @@ import {
 } from "antd";
 
 import axios from "axios";
-import "./reservationPage.css";
+import "./reservationsPage.css";
 
 export const ReservationsPage = () => {
   const [dataSource, setDataSource] = useState([]);
